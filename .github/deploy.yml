@@ -2,7 +2,7 @@ name: Deploy Folium Map to GitHub Pages
 
 on:
   push:
-    branches: [main]  # oder 'master', je nach deinem Repo
+    branches: [main]
 
 jobs:
   deploy:
